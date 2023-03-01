@@ -1,6 +1,6 @@
 # DataAnalysis
 
-## This is a summery of data analysis study based on python's 3 important libraries, which are numpy, pandas and matplotlib. Apart from the basic manipulation of the 3 libaraies, this project also concludes 2 practical cases.   
+## This is a summery of data analysis study based on python's 3 important libraries, which are numpy, pandas and matplotlib. Apart from the basic manipulation of the 3 libaraies, this project also concludes 2 practical cases.  
 
 Study video：https://www.bilibili.com/video/av51067216
 
